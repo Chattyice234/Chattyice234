@@ -16,8 +16,6 @@ Welcome to my GitHub profile! I'm the creator of multiple game websites (barely 
 
 ![Chattyice234's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chattyice234&show_icons=true&theme=radical)
 
-## 🔗 Connect with Me
-
 ### Project 1
 **Description:** A game website made for my friends and school.
 **Languages used:** HTML, CSS, and JS.
