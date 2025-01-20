@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm the creator of multiple game websites (barely 
 
 - 🌱 I’m currently learning and exploring new technologies.
 - 💬 Ask me about anything related to programming, I'm happy to help!
-- 📫 How to reach me: [Your Email](mailto:iamohio1@outlook.com)
+- 📫 How to reach me: [Email](mailto:iamohio1@outlook.com)
 
 ## 🛠️ My Favorite Languages
 
