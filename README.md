@@ -1,6 +1,6 @@
 # Hi there, I'm Chattyice234! 👋
 
-Welcome to my GitHub profile! I'm the creator of multiple game websites (barely 2 :/ ) My original account, @Chattyice, was marked as spam and no one could see my profile or repos. I've moved to this account now!
+Welcome to my GitHub profile! I'm the creator of multiple game websites (barely 2 :/ ) and my original account, @Chattyice, was marked as spam and no one could see my profile or repos. I've moved to this account now!
 
 ## 🚀 About Me
 
