@@ -1,6 +1,6 @@
 # Hi there, I'm Chattyice234! 👋
 
-Welcome to my GitHub profile! I'm the creator of multiple game websites (barely 2 :/ ) and my original account, @Chattyice, was marked as spam and no one could see my profile or repos. I've moved to this account now! 
+Welcome to my GitHub profile! I used to create game websites and tools for school, but I can't anymore because I was caught. Now, I just program and create fun things to share on Github.
 
 <a href="https://chattyice234.github.io">My Website</a>
 
@@ -19,6 +19,6 @@ Welcome to my GitHub profile! I'm the creator of multiple game websites (barely 
 ![Chattyice234's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chattyice234&show_icons=true&theme=radical)
 
 ### Project 1:
-**Description:** A game website made for my friends and school.
+**Description:** A recreation of the Pandemonium minigame from Roblox Pressure.
 **Languages used:** HTML, CSS, and JS.
-**Link:** https://github.com/Chattyice234/british-cw
+**Link:** https://github.com/Chattyice234/Pandemonium-Minigame
