@@ -1,5 +1,5 @@
-I love to work on my website and share it with my friends! 
-
+i'm back with cw (hopefully)
+totally not github copilot generated profile readme
 
 ## 🚀 About Me
 
